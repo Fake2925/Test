@@ -1,6 +1,7 @@
 {
   "name": "My Nuvio Providers",
   "description": "Custom providers repository",
+  "version": "1.0.0",
   "providers": [
     {
       "name": "RogMovies",
@@ -10,4 +11,3 @@
     }
   ]
 }
-
