@@ -2,6 +2,14 @@
   "name": "My Nuvio Providers",
   "description": "Custom providers repository",
   "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "RogMovies",
+      "id": "rogmovies",
+      "version": "1.0.0",
+      "file": "providers/rogmovies.js"
+    }
+  ],
   "providers": [
     {
       "name": "RogMovies",
